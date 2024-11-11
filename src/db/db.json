@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "c31a8893-ac8b-4c86-84f4-0c79efdb2c6c",
+    "name": "Calvin Sipes",
+    "phone": "(953) 546-0060 x3477",
+    "email": "Adeline_Kling@gmail.com",
+    "job": "Product Metrics Coordinator"
+  },
+  {
+    "id": "3240aef6-c82d-4c18-b599-316999cc5177",
+    "name": "Samantha Vandervort",
+    "phone": "427.704.0065",
+    "email": "Alexanne_Lebsack80@hotmail.com",
+    "job": "Direct Group Representative"
+  },
+  {
+    "id": "5b63ae11-eefb-4154-b4d6-e215a92a82ce",
+    "name": "Katie Stoltenberg I",
+    "phone": "1-446-258-7984",
+    "email": "Marcia50@hotmail.com",
+    "job": "Lead Usability Technician"
+  },
+  {
+    "id": "caadcefb-28a3-446e-9832-495adc03baa9",
+    "name": "Kristie Bosco",
+    "phone": "989-937-9935 x564",
+    "email": "Zita.Wolff64@hotmail.com",
+    "job": "Legacy Mobility Planner"
+  }
+]
